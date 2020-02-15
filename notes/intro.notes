@@ -1,0 +1,11 @@
+!Basic intro!
+- the public java keyowrd is an access modifier. ana ccess modifier allows us to define the scope or how other parts of your code or even someone elses code can access this code.
+- for now use public access to allow full access
+- the class keywaord is used to define a class with the name following the keyword
+- acccess class name {}
+- every class must have public static void main 
+- code block contained by curly braces
+- "" define literal strings
+- to define a variable we need to specify data type variable name and value
+- smaller or larger than maximum possible number results in overflow or underflow.
+- interesting to it then iterates to the opposite extreme
