@@ -1,0 +1,11 @@
+!primitive Data types!
+- int, byte, short, long
+- casting can be done by using (cast) same syntax as c
+- byte = 8 bits
+- short = 16 bits
+- int = 32 bits
+- long = 64 bits
+- double = 64 bits
+- float = 32 bits
+- char = 16 bits or 2 bytes thanks to all the unicode characters also being represented.
+- unicode representations char this = '\u00A9';
