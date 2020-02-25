@@ -1,0 +1,5 @@
+!logival operators!
+- and is used as &&
+- or is used as ||
+- ternary operators:
+    - boolean isNoRemainder = (remainder == 0) ? true: false;
