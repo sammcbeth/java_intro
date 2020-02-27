@@ -9,4 +9,9 @@ public class Main {
         System.out.println("Player "+ playerName + " score " + score + " points.");
         return score*1000;
     }
+
+    public static int calculateScore(int score){
+        System.out.println("Unnamed Player score " + score + " points.");
+        return score*1000;
+    }
 }
