@@ -1,0 +1,17 @@
+!Object Discussion!
+- a class is basicallly a blueprint for a house, using the plans we can build as many houses as we like based on those plans.
+- each house you build in other words instantiate using the new operator is an object also known as an instance.
+- each house you build has an address. in other words if you want to tell someone where you live you give them your address, this is known as a reference.
+- you can copy that reference as many times as you like but htere is still just one house. in other wordsd we are copying the paper that has the address on it but not the house itself.
+- we can pass references as parameters to constructors and methods.
+- the keyword super is used to call parent class members.
+- the keyword this is used to call the current class members.
+- these can be used anywhere but in static block
+- method overloading means providing two or more seperate methods in a class with the same name but diffrent parameters.
+- method return type may or may not be different and that allows us to resue the same method name.
+- overloading is very hand tit reduces duplicatecd code and we dont have to rememebr multiple method names.
+- overloading does not have anything to do with polymorphis, but is often called compile time polymorphism.
+- method overriding means defining a method in a child classs that already exists in the parent class with the same signature.
+- @Override goes above the child method.
+- cant override static methods.
+-

@@ -1,11 +1,11 @@
-public class animal {
+public class Animal {
     private int brain;
     private int body;
     private int weight;
     private String name;
     private int size;
 
-    public animal(int brain, int body, int weight, String name, int size) {
+    public Animal(String name, int brain, int body, int weight, int size) {
         this.brain = brain;
         this.body = body;
         this.weight = weight;
@@ -14,11 +14,11 @@ public class animal {
     }
 
     public void eat(){
-        System.out.println("")
+        System.out.println("Animal is eating.");
     }
 
-    public void move(){
-
+    public void move(int speed){
+        System.out.println("Animal is moving at " + speed);
     }
 
     public int getBrain() {
